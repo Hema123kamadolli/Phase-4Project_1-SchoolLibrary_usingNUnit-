@@ -1,0 +1,11 @@
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\refint\SchoolLibrary.dll
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
+D:\Mphasis-2\Phase-4\Project-1\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll
